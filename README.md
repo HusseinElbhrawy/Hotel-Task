@@ -1,16 +1,20 @@
-# hotel_task
+# Hotel Task
 
-A new Flutter project.
+- Flutter Task  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Screenshots 
 
-A few resources to get you started if this is your first Flutter project:
+![Apple iPhone 11 Pro Max Presentation](https://github.com/HusseinElbhrawy/Hotel-Task/assets/64389727/00eefcc9-3313-47c5-ae7e-7241a4736a82)
+![Samsung Galaxy S20+ Presentation](https://github.com/HusseinElbhrawy/Hotel-Task/assets/64389727/f3a97aeb-3491-4aae-aa62-05c9366503f9)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Video 
+
+
+
+
+
+https://github.com/HusseinElbhrawy/Hotel-Task/assets/64389727/87be88c1-0d8c-48f9-9516-0d333e22047c
+
